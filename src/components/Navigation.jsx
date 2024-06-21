@@ -9,7 +9,7 @@ export const Navigation = () => {
       <nav className="container flex justify-between items-center">
         <div className="font-semibold">React Forms</div>
         <div className="flex items-center gap-4 text-lg">
-          <a href="https://github.com/hemantT1999" target="_blank">
+          <a href="https://github.com/nitesh7488" target="_blank">
             <BsGithub />
           </a>
           
